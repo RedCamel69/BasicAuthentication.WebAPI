@@ -7,7 +7,7 @@ When we are trying to protect some resources (for example, an operation on a bac
 
 # A sample Basic Authentication header might look like this:
 
-Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+Authorization: Basic eW91cmF3aWluZXIh=
 
 The value comprises the word Basic (to identify the scheme), followed by a space, followed by a Base-64 encoded value of a username/password combination, in the format of username:password. 
 
